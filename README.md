@@ -1,6 +1,8 @@
 # Getting Started
 
-To get started, clone repo and run
+To view live site: <a href="https://fincht96.github.io/omnea-tech-challenge/" target="_blank">https://fincht96.github.io/omnea-tech-challenge/</a>
+
+To get started running locally, clone repo and run:
 
 ### `npm install`
 
