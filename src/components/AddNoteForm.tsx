@@ -36,7 +36,7 @@ const AddNoteForm = ({
               maxLength: {
                 value: 180,
                 message:
-                  'Ensure field contains less than or equal to 180 characters.',
+                  'Ensure field contains less than or equal to 180 characters. Test',
               },
             })}
             sx={{ flex: 1 }}
